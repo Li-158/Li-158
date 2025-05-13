@@ -1,5 +1,5 @@
 # 👋 Hello, I’m Cody! 
-A freshman learning code.
+A beginner learn code.
 
 ## 💻 About Me
 - 🎓 I’m currently learning **Cloud, Data Analysis**
