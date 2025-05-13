@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I’m Cody! A freshman learning code.
 
-<!--
-**Li-158/Li-158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🎓 I’m currently learning **Cloud, Data Analysis**
+- 🌱 Passionate about **AI, Data Science, Open Source**
+- 🛠️ Working with **Python, SQL**
+- 📫 How to reach me: **cody10852864@gmail.com**
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Programming: Python, SQL
+- Tools: Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ![certificate](https://github.com/user-attachments/assets/8c0ae3e4-9ced-4653-b3d7-05da2262586c) Certification
+
+## 🎓 Education:
+- Master: National Taiwan University, College of Medicine, Graduate Institute of Bran and Mind Sciences.
+- Bachelor: National Chung Cheng University, Department of Psychology.
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github.com/Li-158)
+---
+
+Thank you for visiting my profile! ⭐
