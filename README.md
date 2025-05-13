@@ -5,7 +5,7 @@ A freshman learning code.
 - 🎓 I’m currently learning **Cloud, Data Analysis**
 - 🌱 Passionate about **AI, Data Science, Open Source**
 - 🛠️ Working with **Python, SQL**
-- 
+
 ## 🚀 Skills
 - Programming: Python, SQL
 - Tools: Git, VS Code
