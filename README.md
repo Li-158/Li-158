@@ -15,7 +15,7 @@ I am a recent graduate with a research focus on how aging affects brain function
 - 📜 **AWS Cloud Solution Architechture**
 - 📜 **AWS Cloud Practitioner Certification**
 - 📜 **Microsoft DP-900**
-- 📜 **Microsoft AI-900n**
+- 📜 **Microsoft AI-900**
 
 ## 🎓 Education:
 - Master: National Taiwan University, College of Medicine, Graduate Institute of Bran and Mind Sciences.
